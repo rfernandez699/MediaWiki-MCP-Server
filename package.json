@@ -1,6 +1,6 @@
 {
   "name": "mediawiki-mcp-server",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "description": "Model Context Protocol (MCP) Server to connect your AI with any MediaWiki",
   "main": "src/index.ts",
   "scripts": {
